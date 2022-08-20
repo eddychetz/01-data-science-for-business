@@ -2,14 +2,15 @@
 
 # Welcome to Data Science for Business Part 1!
  
- Your Journey To Learning R For Business Starts Now! (2:33)
+ # Your Journey To Learning R For Business Starts Now! (2:33)
  
  ## Course Certificate - Instructions
  
  Private Slack Channel: How To Join
  
  Video Subtitles (Captions)
-Prerequisites
+ 
+## Prerequisites
  
  Prerequisites
 Getting Help
